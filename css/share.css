@@ -1,0 +1,164 @@
+/**************************************************
+ * 纯文本样式，默认主题
+ **************************************************/
+.think-share-text span{
+	display: inline-block;
+	padding: 0;
+	margin: 0;
+	color: #000;
+	height: 16px;
+	line-height: 16px;
+	vertical-align: middle;
+}
+.think-share-text a{
+	display: inline-block;
+	padding: 0;
+	margin: 0 0 0 6px;
+	color: #08C;
+	text-decoration: none;
+	height: 16px;
+	line-height: 16px;
+	vertical-align: middle;
+}
+
+/**************************************************
+ * 小图标 + 文本样式
+ **************************************************/
+.think-share-ico-text span{
+	display: inline-block;
+	padding: 0;
+	margin: 0;
+	color: #000;
+	height: 16px;
+	line-height: 16px;
+	vertical-align: middle;
+}
+.think-share-ico-text a{
+	display: inline-block;
+	padding: 0 0 0 18px;
+	margin: 0 0 0 6px;
+	color: #08C;
+	text-decoration: none;
+	background-image: url(ico_16.png);
+	background-repeat: no-repeat;
+	height: 16px;
+	line-height: 16px;
+	vertical-align: middle;
+}
+.think-share-ico-text .share-icon-qzone{
+	background-position: 0 0;
+}
+.think-share-ico-text .share-icon-tqq{
+	background-position: 0 -80px;
+}
+.think-share-ico-text .share-icon-sina{
+	background-position: 0 -32px;
+}
+
+/**************************************************
+ * 小图标样式
+ **************************************************/
+.think-share-ico-small span{
+	display: inline-block;
+	padding: 0;
+	margin: 0;
+	color: #000;
+	height: 16px;
+	line-height: 16px;
+	vertical-align: middle;
+}
+.think-share-ico-small a{
+	display: inline-block;
+	padding: 0;
+	margin: 0 0 0 6px;
+	color: #08C;
+	text-decoration: none;
+	background-image: url(ico_16.png);
+	background-repeat: no-repeat;
+	height: 16px;
+	width: 16px;
+	line-height: 0;
+	font-size: 0;
+	vertical-align: middle;
+}
+.think-share-ico-small .share-icon-qzone{
+	background-position: 0 0;
+}
+.think-share-ico-small .share-icon-tqq{
+	background-position: 0 -80px;
+}
+.think-share-ico-small .share-icon-sina{
+	background-position: 0 -32px;
+}
+
+/**************************************************
+ * 中图标样式
+ **************************************************/
+.think-share-ico-middle span{
+	display: inline-block;
+	padding: 0;
+	margin: 0;
+	color: #000;
+	height: 24px;
+	line-height: 24px;
+	vertical-align: middle;
+}
+.think-share-ico-middle a{
+	display: inline-block;
+	padding: 0;
+	margin: 0 0 0 6px;
+	color: #08C;
+	text-decoration: none;
+	background-image: url(ico_24.png);
+	background-repeat: no-repeat;
+	height: 24px;
+	width: 24px;
+	line-height: 0;
+	font-size: 0;
+	vertical-align: middle;
+}
+.think-share-ico-middle .share-icon-qzone{
+	background-position: 0 0;
+}
+.think-share-ico-middle .share-icon-tqq{
+	background-position: 0 -120px;
+}
+.think-share-ico-middle .share-icon-sina{
+	background-position: 0 -48px;
+}
+
+/**************************************************
+ * 大图标样式
+ **************************************************/
+.think-share-ico-big span{
+	display: inline-block;
+	padding: 0;
+	margin: 0;
+	color: #000;
+	height: 32px;
+	line-height: 32px;
+	vertical-align: middle;
+}
+.think-share-ico-big a{
+	display: inline-block;
+	padding: 0;
+	margin: 0 0 0 6px;
+	color: #08C;
+	text-decoration: none;
+	background-image: url(ico_32.png);
+	background-repeat: no-repeat;
+	height: 32px;
+	width: 32px;
+	line-height: 0;
+	font-size: 0;
+	vertical-align: middle;
+}
+.think-share-ico-big .share-icon-qzone{
+	background-position: 0 0;
+}
+.think-share-ico-big .share-icon-tqq{
+	background-position: 0 -160px;
+}
+.think-share-ico-big .share-icon-sina{
+	background-position: 0 -64px;
+}
