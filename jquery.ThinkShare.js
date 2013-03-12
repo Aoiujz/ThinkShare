@@ -185,6 +185,6 @@ function includeCss(css){
 }
 
 //执行默认分享工具
-$($("meta[name='think-share']").attr("value") || "#think-share").ThinkShare();
+$("#think-share").ThinkShare();
 	
 })(jQuery);
